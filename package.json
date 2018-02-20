@@ -1,5 +1,8 @@
 {
   "name": "toy_app",
   "private": true,
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^1.4.2"
+  }
 }
